@@ -1,5 +1,6 @@
 # Simio Simulation Program
-
+![image](https://github.com/user-attachments/assets/eb90414f-e5fb-4ddd-8d57-05919336ddfe)
+<br>
 Este repositorio contiene información y aspectos importantes sobre el programa de simulación Simio.
 
 ## Descripción
